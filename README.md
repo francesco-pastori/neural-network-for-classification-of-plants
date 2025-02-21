@@ -46,10 +46,6 @@ The challenge was to accurately classify plant images as either healthy or unhea
 | Final Model     | 0.839    |
 
 ## Contributions
-- **Francesco Ferrari:** Data cleaning and duplicate removal.
-- **Luca Bresciani:** First augmented dataset creation.
-- **Francesco Pastori:** Advanced augmentation using `keras_cv`.
-- **Roberto Cialini:** Experimentation with Keras applications.
 
 ## References
 - Notebooks: 
@@ -61,9 +57,11 @@ The challenge was to accurately classify plant images as either healthy or unhea
   - “Chall1 RandAugmentDatasetConvL 0.871.ipynb”
   - “Chall1 Ensamble.ipynb”
 
-## License
-Information about the project's license.
 
 ## Acknowledgments
-Thanks to all contributors and collaborators who made this project possible.
+- **Francesco Ferrari:** 
+- **Luca Bresciani:** 
+- **Francesco Pastori:** 
+- **Roberto Cialini:** 
+
 
